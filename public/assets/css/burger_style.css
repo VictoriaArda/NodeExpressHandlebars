@@ -1,0 +1,74 @@
+    .card-header {
+        font-size: 2rem;
+        background-color: #f475c6;
+        font-family: 'Merienda One', cursive;
+    }
+    
+    body {
+        background-color: #f4fffb;
+    }
+    
+    h1 {
+        color: #404242;
+        font-weight: bold;
+        font-size: 4rem;
+        margin-top: 8rem;
+    }
+    
+    h3 {
+        font-size: 2rem;
+        color: #91972a;
+    }
+    
+    h2 {
+        color: #404242;
+    }
+    
+    .card-body {
+        background-color: #bebdbd;
+        /*background-color: rgba(226, 225, 224, 0.1);*/
+        /*filter: alpha(opacity=10);*/
+        /*opacity: 0.5;*/
+    }
+    
+    .img-fluid {
+        float: left;
+    }
+    
+    .card-text {
+        font-size: 17px;
+        font-family: 'Merienda One', cursive;
+    }
+    
+    .col-4 img {
+        padding-left: 50px;
+    }
+    
+    .jumbotron {
+        height: 100%;
+    }
+    
+    #options {
+        margin: 10px 50px 10px 50px !important;
+    }
+    
+    footer {
+        background-color: #404242;
+        color: #bebdbd;
+        /*height: 70px;*/
+        font-size: 13px;
+    }
+    
+    .btn-outline-secondary {
+        padding: 4px;
+        background-color: white;
+        font-size: 15px;
+    }
+    
+    .card {
+        width: 365px;
+    }
+    
+    .burger-div {
+        padding-bottom: 7px;
+    }
