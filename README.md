@@ -26,4 +26,4 @@ You can play with this application on [Heroku](). This is an application which a
 
 `<npm server.js>` to start localhost:8484
 
-![Eat-Da-Burger](..\public\assets\img\eatdaburger.PNG)
+![Eat-Da-Burger](public/assets/img/eatdaburger.PNG)
