@@ -23,5 +23,7 @@ You can play with this application on [Heroku](). This is an application which a
 * MySQL
 * Heroku
 
-![Eat-Da-Burger](/images/logo.png)
-Format: ![Eat-Da-Burger](url)
+
+`<npm server.js>` to start localhost:8484
+
+![Eat-Da-Burger](..\public\assets\img\eatdaburger.PNG)
