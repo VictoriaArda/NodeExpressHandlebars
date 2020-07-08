@@ -1,4 +1,4 @@
-** # Node Express Handlebars **
+** Node Express Handlebars **
 # Eat-da-Burger
 A fully-responsive, full-stack restaurant application.
 
